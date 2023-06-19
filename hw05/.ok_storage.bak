@@ -1,0 +1,4 @@
+'merge-correct', (0, 70)
+'gen_perms-correct', (512, 70)
+'hailstone-correct', (1024, 70)
+'remainders_generator-correct', (1536, 70)
