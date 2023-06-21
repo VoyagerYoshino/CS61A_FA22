@@ -1,0 +1,5 @@
+'flatten-correct', (0, 70)
+'distance-correct', (512, 70)
+'check_city_abstraction-correct', (1024, 70)
+'berry_finder-correct', (1536, 70)
+'sprout_leaves-correct', (2048, 70)
